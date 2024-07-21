@@ -3,6 +3,8 @@
 
 This project is a Bash script that displays a random number from 1 to 9 each time the Enter key is pressed. The script includes an animation effect where the numbers change gradually and are displayed in the center of the screen using ASCII art. The number drawn each time will not repeat until all numbers have been drawn.
 
+![Demo](demo.gif)
+
 ## Features
 
 - Displays random numbers from 1 to 9.
